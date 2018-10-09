@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Spike Handbook](README.md)
+* [Untitled](untitled.md)
 
