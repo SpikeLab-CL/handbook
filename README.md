@@ -4,7 +4,9 @@ Cómo trabajamos, qué principios nos mueven, qué significa trabajar en Spike: 
 # Contenidos
 
 * [Principios que guían lo que hacemos](#principios-que-gu%C3%ADan-lo-que-hacemos)
-
+* [Beneficios y reglas del juego](#beneficios-y-reglas-del-juego)
+* [Proyección en Spike y manejo de conflictos de interés](#Proyectos-personales-y-manejo-de-conflictos-de-interés)
+* [Nuestras oficinas](#nuestras-oficinas)
 
 
 ## Principios que guían lo que hacemos
@@ -111,6 +113,9 @@ Nuestro compromiso es siempre disponer de un lugar de trabajo y un equipamiento 
 - Cervezas heladas
 - Café de grano
 
+
+## Crecer en Spike, proyectos personales y manejo de conflictos de interés
+
 ### Plan de desarrollo
 
 Queremos que Spike te ayude a concretar las cosas que anhelas en tu futuro, tanto en lo personal como en lo profesional. Por lo tanto, si tienes algún anhelo, plan de vida, o sueño en que podamos ayudarte, queremos al menos intentarlo e idear algo juntos.
@@ -119,7 +124,7 @@ Quieres aprender inglés? tienes ganas de hacer un PhD o Master? Quieres vivir e
 
 Además, nos interesa que en tu paso por Spike logres un crecimiento significativo. Para ello, tendremos distintas instancias de feedback y conversación, con el fin de ir construyendo un plan de desarrollo que te haga feliz y te motive, y al mismo tiempo, te haga un mejor profesional.
 
-### Proyectos personales y Política de Conflictos de Interés
+### Proyectos personales y manejo de conflictos de interés
 
 Queremos que todas las buenas ideas que tengas asociadas a lo que hace Spike, puedan eventualmente florecer dentro de Spike. Por lo tanto, si tienes alguna idea que te parece novedosa y de alto impacto, queremos escucharla y, si nos convencemos de que vale la pena, concretarla.
 
@@ -138,7 +143,7 @@ Dichos conflictos, cuando no son transparentados inmediatamente en el momento en
 
 Para evitarlos, pedimos estar al tanto de proyectos que puedas tener (o incluso estar ideando) de manera paralela a tu trabajo en Spike. Si es que vemos un posible conflicto, entre todos buscaremos la mejor manera de manejarlo en conjunto con nuestros clientes y, finalmente, eliminar cualquier riesgo innecesario.
 
-### Si hay algo que quieras hacer distinto...
+## Si hay algo que quieras hacer distinto...
 
 Si algo no te calza, te parece injusto o inadecuado, o sencillamente mejorable, queremos escucharte. Habla con JP o Robert y veamos qué podemos hacer. 
 
