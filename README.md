@@ -1,12 +1,8 @@
----
-description: Cómo trabajamos, qué principios nos mueven, qué significa trabajar en Spike: aquí puedes encontrar todas las respuestas y mucho más.
----
-
 # Spike Handbook
+Cómo trabajamos, qué principios nos mueven, qué significa trabajar en Spike: aquí puedes encontrar todas las respuestas y mucho más.
 
 
-
-### Cultura laboral
+## Principios que guían lo que hacemos
 
 
 Promovemos el trabajo autónomo, impecable, eficiente y basado en el respeto.
@@ -49,13 +45,13 @@ El respeto también va asociado a operar desde la humildad. Nos gusta ser muy bu
 ## Beneficios y reglas del juego
 
 
-#### Spikers con contrato indefinido full-time:
+### Spikers con contrato indefinido full-time:
 
 - 1 Viernes libre al mes (más detalles en sección "Vacaciones")
 - Programa de participación sobre las utilidades de acuerdo a la antigüedad (luego de 2 años de permanencia)
 - Hasta 3500usd anuales para asistencia a conferencias internacionales al año (luego de 12 meses de permanencia)
 
-#### Jornada laboral
+### Jornada laboral
 
 Nos interesa promover relaciones laborales sanas y sostenibles en el largo plazo. Para lograrlo, creemos que es importante tener un buen balance entre trabajo y la vida-fuera-del-trabajo.
 
@@ -64,7 +60,7 @@ Nos interesa promover relaciones laborales sanas y sostenibles en el largo plazo
 - Admiramos a quienes logran ser productivos en sus 8 horas diarias y no requieren de horas extras. Sin embargo, también somos conscientes que hay momentos en que dichas horas extras son necesarias para entregar un resultado de calidad.
 - Si tienes actividades personales distintas al trabajo (docencia, entrenamientos, clases, hora al doctor), no hay problema en que adaptes el horario, siempre y cuando no afecte la calidad de tu trabajo y no falles a compromisos que hayas tomado con clientes con los que trabajas (reuniones, entregables u otros). Además, se espera que tengas una disponibilidad razonable para trabajar con el resto del equipo en lo que te necesiten.
 
-#### Vacaciones
+### Vacaciones
 
 Creemos que 15 días al año no es suficiente. Por lo mismo, tenemos la política de "1 sandwich al mes", en que todos tenemos al menos 1 viernes libre al mes:
 
@@ -141,7 +137,7 @@ Para evitarlos, pedimos estar al tanto de proyectos que puedas tener (o incluso 
 
 Si algo no te calza, te parece injusto o inadecuado, o sencillamente mejorable, queremos escucharte. Habla con JP o Robert y veamos qué podemos hacer. 
 
-# Nuestras oficinas
+## Nuestras oficinas
 
 
 Tenemos oficinas en Valdivia y Santiago:
