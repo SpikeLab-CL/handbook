@@ -143,7 +143,7 @@ Para evitarlos, pedimos estar al tanto de proyectos que puedas tener (o incluso 
 
 Si algo no te calza, te parece injusto o inadecuado, o sencillamente mejorable, queremos escucharte. Habla con JP o Robert y veamos qué podemos hacer. 
 
-# 🎯 Dirección de nuestras oficinas
+# Nuestras oficinas
 
 ---
 
@@ -151,7 +151,3 @@ Tenemos oficinas en Valdivia y Santiago:
 
 - Nube Cowork: Serrano 958, Valdivia.
 - CasaCo: Presidente Errazuriz 700, Las Condes, Santiago.
-
-[https://www.google.com/maps/place/Serrano+958,+Valdivia,+Región+de+los+R%C3%ADos/@-39.8202009,-73.2484255,17z/data=!4m5!3m4!1s0x9615ee717a01889b:0x3f28d49243dc9683!8m2!3d-39.8199125!4d-73.2463334](https://www.google.com/maps/place/Serrano+958,+Valdivia,+Región+de+los+R%C3%ADos/@-39.8202009,-73.2484255,17z/data=!4m5!3m4!1s0x9615ee717a01889b:0x3f28d49243dc9683!8m2!3d-39.8199125!4d-73.2463334)
-
-
