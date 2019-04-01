@@ -3,9 +3,10 @@ Cómo trabajamos, qué principios nos mueven, qué significa trabajar en Spike: 
 
 # Contenidos
 
-* [Principios que guían lo que hacemos](#principios-que-gu%C3%ADan-lo-que-hacemos)
+* [Principios que guían lo que hacemos](#principios-que-guían-lo-que-hacemos)
 * [Beneficios y reglas del juego](#beneficios-y-reglas-del-juego)
 * [Proyección en Spike y manejo de conflictos de interés](#Proyectos-personales-y-manejo-de-conflictos-de-interés)
+* [Si hay algo que quieras hacer distinto...](#si-hay-algo-que-quieras-hacer-distinto)
 * [Nuestras oficinas](#nuestras-oficinas)
 
 
