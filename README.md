@@ -8,7 +8,6 @@ description: Cómo trabajamos, qué principios nos mueven, qué significa trabaj
 
 ### Cultura laboral
 
----
 
 Promovemos el trabajo autónomo, impecable, eficiente y basado en el respeto.
 
@@ -49,7 +48,6 @@ El respeto también va asociado a operar desde la humildad. Nos gusta ser muy bu
 
 ## Beneficios y reglas del juego
 
----
 
 #### Spikers con contrato indefinido full-time:
 
@@ -145,7 +143,6 @@ Si algo no te calza, te parece injusto o inadecuado, o sencillamente mejorable, 
 
 # Nuestras oficinas
 
----
 
 Tenemos oficinas en Valdivia y Santiago:
 
