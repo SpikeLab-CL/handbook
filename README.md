@@ -155,5 +155,5 @@ Si algo no te calza, te parece injusto o inadecuado, o sencillamente mejorable, 
 
 Tenemos oficinas en Valdivia y Santiago:
 
-- Nube Cowork: Serrano 958, Valdivia.
+- Ramón Picarte 237, Oficina 36, Valdivia.
 - CasaCo Cowork: Presidente Errazuriz 3949, Las Condes, Santiago.
