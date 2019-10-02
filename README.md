@@ -98,7 +98,7 @@ Nos gusta disponer de flexibilidad para trabajar en el lugar en que seamos más 
 
 Haces yoga? quieres meterte a boxeo? te gusta escalar? te gusta la brisca?
 
-- Mensualmente, podrás rendir hasta 1.5 UF mensual de práctica deportiva.
+- Mensualmente, podrás rendir hasta 2 UF mensual de práctica deportiva.
 - Este beneficio pretende fomentar el deporte regular, por lo que no es acumulable.
 
 ### Equipamiento de trabajo
@@ -113,6 +113,8 @@ Nuestro compromiso es siempre disponer de un lugar de trabajo y un equipamiento 
 - Snacks saludables
 - Cervezas heladas
 - Café de grano
+
+Hay algo adicional que te gustaría tener como equipamiento o en el espacio de trabajo? Veamos cómo lo hacemos posible.
 
 
 ## Crecer en Spike, proyectos personales y manejo de conflictos de interés
