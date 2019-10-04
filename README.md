@@ -65,12 +65,12 @@ Nos interesa promover relaciones laborales sanas y sostenibles en el largo plazo
 
 - Sugerimos una jornada de 40 horas semanales, distribuidas en 5 días de 8 horas. Idealmente, de 9:30 a 17:30
 - A veces nos toca trabajar más que eso, pero esas semanas debieran ser la excepción y no la regla. En Spike no se ganan puntos por quedarse todos los días hasta tarde!
-- Admiramos a quienes logran ser productivos en sus 8 horas diarias y no requieren de horas extras. Sin embargo, también somos conscientes que hay momentos en que dichas horas extras son necesarias para entregar un resultado de calidad.
+- Admiramos a quienes logran ser productivos en sus 8 horas diarias y no requieren de horas extras. Sin embargo, también somos conscientes de que hay momentos en que dichas horas extras son necesarias para entregar un resultado de calidad.
 - Si tienes actividades personales distintas al trabajo (docencia, entrenamientos, clases, hora al doctor), no hay problema en que adaptes el horario, siempre y cuando no afecte la calidad de tu trabajo y no falles a compromisos que hayas tomado con clientes con los que trabajas (reuniones, entregables u otros). Además, se espera que tengas una disponibilidad razonable para trabajar con el resto del equipo en lo que te necesiten.
 
 ### Vacaciones
 
-Creemos que 15 días al año no es suficiente. Por lo mismo, tenemos la política de "1 sandwich al mes", en que todos tenemos al menos 1 viernes libre al mes:
+Creemos que 15 días al año no es suficiente. Por lo mismo, tenemos la política de "1 sandwich al mes" en que todos nos comemos un cuarto de libra con... ahh no... nada que ver. La política es que todos tenemos al menos 1 viernes libre al mes:
 
 - A comienzo de año se hace un calendario asignando al azar cuál será el viernes libre mensual para cada persona.
 - Los viernes que les toquen pueden intercambiarlos con otros colegas, siempre y cuando haya acuerdo explícito entre las partes.
