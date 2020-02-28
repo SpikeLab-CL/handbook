@@ -55,24 +55,25 @@ El respeto también va asociado a operar desde la humildad. Nos gusta ser muy bu
 
 ### Spikers con contrato indefinido full-time:
 
-- 1 Viernes libre al mes (más detalles en sección "Vacaciones")
-- Programa de participación sobre las utilidades de acuerdo a la antigüedad (luego de 2 años de permanencia)
-- Hasta 3500usd anuales para asistencia a conferencias internacionales al año (luego de 12 meses de permanencia)
+- 2 Viernes libre al mes (más detalles en sección "Vacaciones").
+- Programa de participación sobre las utilidades de acuerdo a la antigüedad (luego de 2 años de permanencia).
+- Hasta 3500usd anuales para asistencia a conferencias internacionales al año (luego de 12 meses de permanencia).
 
 ### Jornada laboral
 
 Nos interesa promover relaciones laborales sanas y sostenibles en el largo plazo. Para lograrlo, creemos que es importante tener un buen balance entre trabajo y la vida-fuera-del-trabajo.
 
-- Sugerimos una jornada de 40 horas semanales, distribuidas en 5 días de 8 horas. Idealmente, de 9:30 a 17:30
+- Sugerimos una jornada de 35 horas semanales, distribuidas en 5 días de 8 horas (incluyendo almuerzo). Idealmente, de 9:30 a 17:30.
 - A veces nos toca trabajar más que eso, pero esas semanas debieran ser la excepción y no la regla. En Spike no se ganan puntos por quedarse todos los días hasta tarde!
 - Admiramos a quienes logran ser productivos en sus 8 horas diarias y no requieren de horas extras. Sin embargo, también somos conscientes de que hay momentos en que dichas horas extras son necesarias para entregar un resultado de calidad.
 - Si tienes actividades personales distintas al trabajo (docencia, entrenamientos, clases, hora al doctor), no hay problema en que adaptes el horario, siempre y cuando no afecte la calidad de tu trabajo y no falles a compromisos que hayas tomado con clientes con los que trabajas (reuniones, entregables u otros). Además, se espera que tengas una disponibilidad razonable para trabajar con el resto del equipo en lo que te necesiten.
 
 ### Vacaciones
 
-Creemos que 15 días al año no es suficiente. Por lo mismo, tenemos la política de "1 sandwich al mes" en que todos nos comemos un cuarto de libra con... ahh no... nada que ver. La política es que todos tenemos al menos 1 viernes libre al mes:
+Creemos que 15 días al año no es suficiente. Además, somos unos convencidos que debiéramos trabajar menos de 5 días a la semana. Desde los inicios de Spike hemos instaurado la política de tener "sandwiches al mes" en que todos nos comemos un cuarto de libra con... ahh no... nada que ver. La política es que todos tenemos días libres adicionales durante el mes. Partimos con un viernes libre al mes y, luego de un piloto que implementamos durante el verano de 2020, ampliamos a 2 viernes libres por mes para cada Spiker. 
 
-- A comienzo de año se hace un calendario asignando al azar cuál será el viernes libre mensual para cada persona.
+Cómo funciona?
+- A comienzo de año se hace un calendario asignando al azar cuáles serán los dos viernes libres mensuales para cada persona.
 - Los viernes que les toquen pueden intercambiarlos con otros colegas, siempre y cuando haya acuerdo explícito entre las partes.
 - No son acumulables. Si por algún motivo no te pudiste tomar el viernes que te tocó (por ejemplo, justo había una entrega o reunión importante para un cliente), no se recupera.
 
