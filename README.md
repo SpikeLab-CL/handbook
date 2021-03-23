@@ -55,7 +55,7 @@ El respeto también va asociado a operar desde la humildad. Nos gusta ser muy bu
 
 ### Spikers con contrato indefinido full-time:
 
-- 2 Viernes libre al mes (más detalles en sección "Vacaciones").
+- 2 Viernes libre al mes y todos los Viernes del verano (más detalles en sección "Vacaciones").
 - Programa de participación sobre las utilidades de acuerdo a la antigüedad (luego de 2 años de permanencia).
 - Hasta 3500usd anuales para asistencia a conferencias internacionales al año (luego de 12 meses de permanencia).
 
@@ -70,22 +70,21 @@ Nos interesa promover relaciones laborales sanas y sostenibles en el largo plazo
 
 ### Vacaciones
 
-Creemos que 15 días al año no es suficiente. Además, somos unos convencidos que debiéramos trabajar menos de 5 días a la semana. Desde los inicios de Spike hemos instaurado la política de tener "sandwiches al mes" en que todos nos comemos un cuarto de libra con... ahh no... nada que ver. La política es que todos tenemos días libres adicionales durante el mes. Partimos con un viernes libre al mes y, luego de un piloto que implementamos durante el verano de 2020, ampliamos a 2 viernes libres por mes para cada Spiker. 
+Creemos que 15 días al año no es suficiente. Además, somos unos convencidos que debiéramos trabajar menos de 5 días a la semana. Desde los inicios de Spike hemos instaurado la política de tener "sandwiches al mes" en que todos nos comemos un cuarto de libra con... ahh no... nada que ver. La política es que todos tenemos días libres adicionales durante el mes. Partimos con un viernes libre al mes y, luego de un piloto que implementamos durante el verano de 2020, ampliamos a 2 viernes libres por mes para cada Spiker. En 2021, ya nos pasamos a tener todos los viernes libres durante el verano (si, leíste bien, TODOS LOS VIERNES LIBRES) y durante el año mantuvimos los dos viernes libres al mes.
 
 Cómo funciona?
 - A comienzo de año se hace un calendario asignando al azar cuáles serán los dos viernes libres mensuales para cada persona.
-- Los viernes que les toquen pueden intercambiarlos con otros colegas, siempre y cuando haya acuerdo explícito entre las partes.
+- Los viernes que les toquen pueden intercambiarlos con otros spikers, siempre y cuando haya acuerdo explícito entre las partes.
 - No son acumulables. Si por algún motivo no te pudiste tomar el viernes que te tocó (por ejemplo, justo había una entrega o reunión importante para un cliente), no se recupera.
 
 ### Trabajo remoto
 
-Nos gusta disponer de flexibilidad para trabajar en el lugar en que seamos más productivos y felices. Entendemos que, a veces, la oficina no es ese lugar, o bien, el traslado casa-oficina puede generar insatisfacción. Por lo mismo, en Spike contamos con la posibilidad de trabajar de manera no presencial con las siguientes condiciones:
+Nos gusta disponer de flexibilidad para trabajar en el lugar en que seamos más productivos y felices. Entendemos que, a veces, la oficina no es ese lugar, o bien, el traslado casa-oficina puede generar insatisfacción. Por lo mismo, en Spike contamos con la posibilidad de trabajar de manera no presencial el 100% del tiempo. 
 
-- Hasta un 20% de la semana (1 día laboral en total).
-- Dicho día se puede distribuir en mitades de días. Por ejemplo, alguien puede trabajar remoto los martes en mañana y los jueves en la tarde.
-- Todo lo anterior debe ser coordinado con JP o Robert, de manera de que podamos saber cuándo podemos reunirnos presencialmente, agendar visitas a clientes y/o planificar acordemente. Idealmente, planificar y solicitar por Calamari para todo el mes.
-- Si una semana necesitas trabajar remotamente por más tiempo, no debiera haber problema: convérsalo con JP o Robert.
-- Los días de trabajo remoto, estar disponible online en Slack.
+Además, te apoyamos de la siguiente manera para que puedas tener un buen lugar de trabajo en tu casa,
+- Te damos una segunda pantalla de alta definición, escritorio, silla ergonómica, teclado y mouse, para mejorar tu experiencia y cuidar tu salud.
+- Un bono de hasta 250.000 CLP para que mejores tu router, internet o lo que tú estimes conveniente.
+
 
 ### Pre y Postnatal
 
@@ -104,7 +103,7 @@ Haces yoga? quieres meterte a boxeo? te gusta escalar? te gusta la brisca?
 
 ### Equipamiento de trabajo
 
-Nuestro compromiso es siempre disponer de un lugar de trabajo y un equipamiento para ayudarte a ser productivo en tus horas de trabajo. Por lo mismo, a cada Spike se le provee de:
+Nuestro compromiso es siempre disponer de un lugar de trabajo y un equipamiento para ayudarte a ser productivo en tus horas de trabajo. Por lo mismo, a cada Spiker se le provee de:
 
 - Oficina cómoda y confortable
 - Computador Apple de última generación
@@ -157,4 +156,4 @@ Si algo no te calza, te parece injusto o inadecuado, o sencillamente mejorable, 
 Tenemos oficinas en Valdivia y Santiago:
 
 - Ramón Picarte 237, Oficina 36, Valdivia.
-- CasaCo Cowork: Presidente Errazuriz 3949, Las Condes, Santiago.
+- Badajoz 80, Las Condes, Santiago.
