@@ -88,7 +88,7 @@ Además, te apoyamos de la siguiente manera para que puedas tener un buen lugar 
 
 
 ### Pre y Postnatal
-- Bono 200.000/mes babysitter/Sala cuna por 12 meses
+- Bono $200.000/mes babysitter/sala cuna por 12 meses.
 - Si fuiste papá, puedes tomarte hasta 4 semanas de postnatal pagado (lo que implica 3 semanas adicionales a los 5 días hábiles que se dan en Chile). Solo si es estrictamente necesario, te vamos a llamar para hacerte algunas preguntas o pedirte algún dato ;)
 - Si fuiste mamá, recibirás tu sueldo completo los 6 primeros meses, además **por sobre las 24 semanas legales en Chile** puedes tomarte:
     - 3 meses adicionales media jornada y sueldo completo,
