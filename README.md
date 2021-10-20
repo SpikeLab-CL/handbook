@@ -55,7 +55,7 @@ El respeto también va asociado a operar desde la humildad. Nos gusta ser muy bu
 
 ### Spikers con contrato indefinido full-time:
 
-- 2 Viernes libre al mes y todos los Viernes del verano (más detalles en sección "Vacaciones"). A partir de 2022, todas las semanas serán de 4 días 😱.
+- 3 Viernes libre al mes y todos los Viernes del verano (más detalles en sección "Vacaciones"). A partir de 2022, todas las semanas serán de 4 días 😱.
 - Programa de participación sobre las utilidades de acuerdo a la antigüedad (luego de 2 años de permanencia).
 - Hasta 3500usd anuales para asistencia a conferencias internacionales al año (luego de 12 meses de permanencia).
 - Seguro de Salud, Vida, Dental y Gastos Médicos Mayores.
@@ -88,12 +88,12 @@ Además, te apoyamos de la siguiente manera para que puedas tener un buen lugar 
 
 
 ### Pre y Postnatal
-- Bono 300.000/mes babysitter/Sala cuna por 3 meses
+- Bono 200.000/mes babysitter/Sala cuna por 12 meses
 - Si fuiste papá, puedes tomarte hasta 4 semanas de postnatal pagado (lo que implica 3 semanas adicionales a los 5 días hábiles que se dan en Chile). Solo si es estrictamente necesario, te vamos a llamar para hacerte algunas preguntas o pedirte algún dato ;)
-- Si fuiste mamá, puedes tomarte **por sobre las 24 semanas legales en Chile**:
-    - 3 meses adicionales de media jornada y sueldo completo
-    - Hasta 6 meses adicionales de media jornada y medio sueldo.
-    - Y por supuesto: cuentas con el prenatal legal de 6 semanas.
+- Si fuiste mamá, recibirás tu sueldo completo los 6 primeros meses, además **por sobre las 24 semanas legales en Chile** puedes tomarte:
+    - 3 meses adicionales media jornada y sueldo completo,
+    - Y luego, si quieres, 3 meses más a media jornada y medio sueldo.
+    - Por supuesto: cuentas con el prenatal legal de 6 semanas.
 
 ### Bono para deporte
 
@@ -158,4 +158,4 @@ Tenemos oficinas en Valdivia y Santiago:
 
 - Caupolicán 110, Valdivia, Chile.
 - Badajoz 80, Las Condes, Santiago, Chile.
-- También hay Spikers que trabajan en distintas ciudades de México, Perú y Argentina.
+- También hay Spikers que trabajan en distintas ciudades de Canadá, México, Perú y Argentina.
